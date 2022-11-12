@@ -1,6 +1,6 @@
-import Constants as keys
+import basics.Constants as keys
 from telegram.ext import *
-import Responses as R
+import basics.Responses as R
 
 print("Bot started")
 
